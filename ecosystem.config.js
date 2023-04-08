@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'Linux Dash',
+    name: 'Akali Dash',
     script: './app/server/index.js',
     watch: false,
     env: {
